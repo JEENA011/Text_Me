@@ -1,6 +1,6 @@
 # TextMe Application : 
 
-TextUtils is a word counter and a character counting utility which can be used to manipulate text. It can remove extra spaces, copy the manipulated text as well as convert your text from Uppercase to lowercase and lowercase to Uppercase.
+TextMe is a word counter and a character counting utility which can be used to manipulate text. It can remove extra spaces, copy the manipulated text as well as convert your text from Uppercase to lowercase and lowercase to Uppercase.
 
 ## Screenshots : </br> </br>
 
